@@ -1,0 +1,516 @@
+source	translation	score
+Holmes had received a telegram while we sat at our lunch , and he had scribbled a reply . He made no remark , but the matter remained in his thoughts , for he stood in front of the fire afterwards with a thoughtful face , smoking his pipe , and casting an occasional glance at the message .	霍尔墨斯在我们吃午饭的时候收到了一封电报，他写了回信，没有说什么，但他仍然想着这件事，因为后来他站在炉边，脸上带着一副可怕的表情，抽着烟斗，偶尔看了看那封信。	1
+No woman would ever send a reply-paid telegram .	没有一个女人会发送回信电报。	1
+My mind is like a racing engine , tearing itself to pieces because it is not connected up with the work for which it was built .	我的头脑就像一个赛车引擎，把自己撕成碎片，因为它与建造它的工作无关。	1
+Can you ask me , then , whether I am ready to look into any new problem , however trivial it may prove ?	那么，你能问我，我是否准备研究任何新的问题，不管它可能是多么微不足道？	null
+But here , unless I am mistaken , is our client . ''	但这里，除非我弄错了，是我们的客户。	1
+He plunged instantly into his business . `` I have had a most singular and unpleasant experience , Mr. Holmes , '' said he .	“霍尔墨斯先生，我有过一个非常不愉快的经历，”他说。	1
+`` Never in my life have I been placed in such a situation .	”“我一生中从来没有过这样的处境。	1
+It is most improper -- most outrageous .	这是最不恰当的——最惹人厌的。	1
+`` May I ask , in the first place , why you came to me at all ? '' `` Well , sir , it did not appear to be a matter which concerned the police , and yet , when you have heard the facts , you must admit that I could not leave it where it was .	”“好吧，先生，这似乎不涉及警察，可是，当你听到事实的时候，你必须承认我不能把它留在原处。	1,1
+Private detectives are a class with whom I have absolutely no sympathy , but none the less , having heard your name -- ''	私下里的侦探是一类我一点也不同情的人，不过，听说了你的名字，我也不同情他。	1
+But , in the second place , why did you not come at once ? ''	但你为什么不立刻来呢。	1
+But no one can glance at your toilet and attire without seeing that your disturbance dates from the moment of your waking . ''	但是，没有人可以一眼看到你的厕所和阁楼，却不知道你的烦恼发生在你醒来的那一刻。	1,1
+Our client smoothed down his unbrushed hair and felt his unshaven chin .	我们的客户抚平了他那蓬乱的头发,感觉到他那未刮胡子的下巴.	0,1
+I never gave a thought to my toilet .	我从没想过我的厕所。	1
+`` You are like my friend , Dr. Watson , who has a bad habit of telling his stories wrong end foremost .	“你就像我的朋友沃森博士，他有把自己的故事讲错的坏习惯。	null
+Please arrange your thoughts and let me know , in their due sequence , exactly what those events are which have sent you out unbrushed and unkempt , with dress boots and waistcoat buttoned awry , in search of advice and assistance . ''	请你把你的想法安排好，并按适当的顺序告诉我，这些事件究竟是什么，使你衣衫褴褛，衣衫褴褛，衣衫褴褛，寻求建议和帮助。”	-3,-3
+Our client looked down with a rueful face at his own unconventional appearance .	我们的客户看着他自己的不寻常的外表,脸上带着遗憾的表情.	1
+`` I 'm sure it must look very bad , Mr. Holmes , and I am not aware that in my whole life such a thing has ever happened before .	“霍姆斯先生，我相信这一定是件很糟糕的事，我不知道在我的一生中，这种事曾经发生过。	1
+`` Exactly , Mr. Holmes .	”“没错，霍姆斯先生。	null
+Our client had sat up with staring eyes and every tinge of colour struck from his astonished face .	我们的客人坐了起来，瞪大眼睛，他那惊骇的脸上露出了一丝颜色。	null
+You do n't mean -- you do n't mean that I am suspected ? ''	你不是说,你不是说我被怀疑?”	1,1
+I think , Watson , a brandy and soda would do him no harm .	我想，沃森，白兰地和苏达不会伤害他。	1
+Now , sir , I suggest that you take no notice of this addition to your audience , and that you proceed with your narrative exactly as you would have done had you never been interrupted . ''	现在，先生，我建议你不要在听众中注意到这一增加，而你的叙述就像你从未被打断一样。”	1,1
+With a dubious glance at the inspector 's notebook , he plunged at once into his extraordinary statement .	他一本正经地看了一眼检查员的笔记本，立即投入到他非凡的陈述中。	null
+The whole place was depressing . Our dinner was tete-a-tete , and though my host did his best to be entertaining , his thoughts seemed to continually wander , and he talked so vaguely and wildly that I could hardly understand him .	整个地方都很郁闷，我们的晚餐很乏味，虽然我的主人尽了他最大的努力来娱乐，但他的思想似乎在不断地动摇，他说话那么粗野，我几乎听不懂他的话。	null
+He continually drummed his fingers on the table , gnawed his nails , and gave other signs of nervous impatience .	 	-3
+The dinner itself was neither well served nor well cooked , and the gloomy presence of the taciturn servant did not help to enliven us .	晚餐本身既没有很好的服务，也没有很好的烹饪，而且这个沉默寡言的仆人的忧郁的存在也无助于我们的生活。	1,1
+I thought nothing of it at the time .	当时我什么也没想到。	1
+I noticed that after my host had read it he seemed even more distrait and strange than before .	我注意到主人看完之后，他似乎比以前更加紧张和奇怪。	null
+He gave up all pretence at conversation and sat , smoking endless cigarettes , lost in his own thoughts , but he made no remark as to the contents .	他在谈话时放弃了一切伪装，坐着，抽着无穷无尽的香烟，迷失在自己的思想中，但他对内容只字不提。	1
+I said that I had not . He apologized for having disturbed me so late , saying that it was nearly one o'clock .	我说我没有，他很抱歉这么晚才打扰我，说已经快一点钟了。	1
+There was no response .	没有答复。	1
+I rang again and again , with the same result .	我一遍又一遍地唠叨,结果也一样.	null
+You can imagine my surprise when I found that there was no one there .	当我发现那里没有人的时候，你可以想象我的惊讶。	1
+I shouted in the hall . There was no answer . Then I ran from room to room . All were deserted . My host had shown me which was his bedroom the night before , so I knocked at the door .	我在大厅里喊道，没有回答。然后我从一个房间跑到另一个房间。所有的人都开小差了。我的主人前天晚上给我看了他的卧室，所以我敲了敲门。	1
+No reply . I turned the handle and walked in .	没有回答，我转动把手走了进来。	1
+The room was empty , and the bed had never been slept in .	房间里空荡荡的，床从来没有睡过。	1
+`` Your experience is , so far as I know , perfectly unique , '' said he .	“据我所知，你的经历是独一无二的，”他说。	null
+It struck me that the whole proceeding could hardly be for the purpose of making a fool of me , and that the main object must be to get out of the rent .	让我吃惊的是，整个过程几乎都不是为了欺骗我，而主要的目的必须是摆脱房租。	null
+But this theory would not work .	但这一理论行不通。	1
+The man was unknown there .	那个人在那里不知名。	1
+After this I went to see Melville , at whose house I had first met Garcia , but I found that he really knew rather less about him than I did .	之后我去看了梅尔维尔，在他的房子里我第一次见到加西亚，但我发现他对他的了解比我少。	null
+I can assure you that every word I have said is the truth , and that , outside of what I have told you , I know absolutely nothing about the fate of this man .	我可以向你保证，我所说的每一句话都是事实，除了我告诉你的，我对这个人的命运一无所知。	1
+I picked this out unburned from the back of it . ''	我把它从后面取出来，没有烧焦。	1
+`` The note is written upon ordinary cream-laid paper without watermark .	“这张纸条写在普通的无水印的奶油纸上。	1
+The oval seal is undoubtedly a plain sleeve-link -- what else is of such a shape ?	椭圆形的海豹无疑是一个普通的雪橇连接——还有什么别的形状呢？	1
+`` I 'm bound to say that I make nothing of the note except that there was something on hand , and that a woman , as usual was at the bottom of it . ''	“我不得不说，我对字条什么也不懂，只是说字条上有东西，而且像往常一样，有个女人在字条的底部。”	1
+Mr. Scott Eccles had fidgeted in his seat during this conversation .	斯考特·埃克勒斯先生在这次谈话中坐在座位上.	null
+`` But I beg to point out that I have not yet heard what has happened to Mr. Garcia , nor what has become of his household . ''	”“但我得指出，我还没有听说加西亚先生的遭遇，也没有听说他家里发生了什么。	1,1
+His head had been smashed to pulp by heavy blows of a sandbag or some such instrument , which had crushed rather than wounded .	他的头被一个沙袋或一些这样的工具的厚重的枝条撞碎，而不是受伤。	null
+It is a lonely corner , and there is no house within a quarter of a mile of the spot . He had apparently been struck down first from behind , but his assailant had gone on beating him long after he was dead .	那是一个孤独的角落，离这地方四分之一英里以内就没有房子，他显然是先从后面被撞倒的，但他死后很久，他的攻击就一直在打他。	1
+There are no footsteps nor any clue to the criminals . ''	罪犯没有脚踏,也没有脚踏.”	1,-1
+`` No , there was no attempt at robbery . '' `` This is very painful -- very painful and terrible , '' said Mr. Scott Eccles in a querulous voice , `` but it is really uncommonly hard on me .	“不，没有抢劫的企图。”“这是非常痛苦的——非常痛苦和可怕的，”斯考特·埃克勒斯先生用一种古怪的声音说，“但对我来说，这确实是很困难的。	1,1,0
+I had nothing to do with my host going off upon a nocturnal excursion and meeting so sad an end .	我和我的主人在夜游的时候，遇见如此悲伤的结局没有任何关系。	1
+It was after nine this morning when we reached his house and found neither you nor anyone else inside it .	今天早上九点钟，我们来到他家，发现里面既没有你，也没有其他人。	1
+I desire you to spare no expense and no pains to get at the truth . ''	我希望你不要花钱买,不要弄虚作假.”	-1
+`` I suppose that you have no objection to my collaborating with you , Mr. Baynes ? ''	“我想你不反对我和你合作,巴恩斯先生?”	1
+`` Highly honoured , sir , I am sure . '' `` You appear to have been very prompt and businesslike in all that you have done . Was there any clue , may I ask , as to the exact hour that the man met his death ? ''	“很荣幸，先生，我相信。”“你所做的一切似乎都很迅速，很认真。我可以问一下这个人在什么时候死了吗？”	null
+`` But that is perfectly impossible , Mr. Baynes , '' cried our client .	“但那是完全不可能的，贝恩斯先生，”我们的客户叫道。	1
+`` His voice is unmistakable .	”“他的声音很清楚。	0
+`` Remarkable , but by no means impossible , '' said Holmes , smiling .	“了不起，但绝不是不可能的，”霍尔墨斯微笑着说。	1,1
+`` On the face of it the case is not a very complex one , though it certainly presents some novel and interesting features .	”从表面上看，这个案子并不复杂，尽管它确实有一些新奇有趣的特点。	1
+`` I can make nothing of this mystification of Scott Eccles . ''	“我对苏格兰威士忌的这种神秘感一无所知.”	1
+`` That is certainly a possible point of view .	这当然是一种可能的观点。	null
+`` You must admit , my dear Watson , that the idea of a joke is impossible .	”“你必须承认，我亲爱的沃森，开一个玩笑是不可能的。	1
+There is , on the face of it , something unnatural about this strange and sudden friendship between the young Spaniard and Scott Eccles .	从表面上看，年轻的西班牙人和苏格兰人之间的这种奇怪而突然的友谊有些反常。	1
+I see no charm in the man .	我看这个人没有魅力。	1
+He is not particularly intelligent -- not a man likely to be congenial to a quick-witted Latin .	他并不特别聪明----他也不是一个会和一个通晓拉丁语的人交往的人。	1,1
+You saw yourself how neither of the inspectors dreamed of questioning his statement , extraordinary as it was . ''	你们看到了你们两个视察员都不害怕质疑他的声明，尽管这是很不寻常的。”	1
+`` Nothing , as things turned out , but everything had they gone another way .	”“没有，事情发生了，但一切都不同了。	1
+`` I see , he might have proved an alibi . ''	“我看,他可能证明是不在犯罪现场.”	null
+`` Exactly , my dear Watson ; he might have proved an alibi .	”“没错，我亲爱的沃森，他可能是个不在场的人。	null
+By some juggling of the clocks it is quite possible that they may have got Scott Eccles to bed earlier than he thought , but in any case it is likely that when Garcia went out of his way to tell him that it was one it was really not more than twelve .	也许他们比他想象的要早睡觉，但是无论如何，当加西亚不愿意告诉他那是一只猫的时候，它确实不超过十二只。	1
+Here was this irreproachable Englishman ready to swear in any court of law that the accused was in the house all the time .	这位无可辩驳的英国人准备在任何法庭上发誓被告一直呆在家里。	1
+`` I have not all my facts yet , but I do not think there are any insuperable difficulties .	”“我还没有掌握全部事实，但我认为没有什么不可逾越的困难。	1,1
+You find yourself insensibly twisting them round to fit your theories . ''	你发现你自己不理智地扭曲它们以符合你的理论。	1
+It was clearly a dangerous quest . She would not have said ` Godspeed ' had it not been so .	这显然是一个危险的任务，如果不是这样的话，她就不会说‘高速’了。	1,1
+`` Good , Watson , very good -- but quite inadmissable .	”“很好，沃森，很好，但很难接受。	0
+Meanwhile we can thank our lucky fate which has rescued us for a few short hours from the insufferable fatigues of idleness . ''	与此同时，我们可以感谢我们的幸运命运，它使我们在短暂的时间里摆脱了令人难以忍受的无所事事的疲劳。	0
+`` I do n't quite understand . ''	“我不太明白。	1
+It is equally certain that this house can not be more than a mile or two from Oxshott , since Garcia was walking in that direction and hoped , according to my reading of the facts , to be back in Wisteria Lodge in time to avail himself of an alibi , which would only be valid up to one o'clock .	同样可以肯定的是，这所房子离Oxshott不到一两英里，因为Garcia正在朝那个方向走，根据我对事实的了解，他希望能及时回到WisteriaLodge，得到一个不在场证明，这个证明在一点钟以前是有效的。	1
+It has been a long evening , and I do n't think my nerve is as good as it was . ''	这是一个漫长的夜晚，我认为我的神经没有以前那么好。	1
+I should not have thought you had a nerve in your body . ''	我不应该以为你的身体有神经。”	1
+I do n't know what made me look up , but there was a face looking in at me through the lower pane .	我不知道是什么让我抬起头来的，但是有一张脸从下面的窗玻璃里看着我。	1
+This is not talk for a police-constable . ''	这不是警察的谈话。”	1
+`` I know , sir , I know ; but it shook me , sir , and there 's no use to deny it .	”“我知道，先生，我知道，但它震撼了我，先生。	1
+It was n't black , sir , nor was it white , nor any colour that I know but a kind of queer shade like clay with a splash of milk in it .	它不是黑色的，先生，也不是白色的，也不是我所知道的任何颜色，而是一种像黏土一样的怪色，里面有一溅牛奶。	1,1,1
+I tell you , sir , I could n't move a finger , nor get my breath , till it whisked away and was gone .	我告诉你，先生，我不能动手指，也不能呼吸，直到它悄悄地消失。	1,1
+Out I ran and through the shrubbery , but thank God there was no one there . ''	我跑过去穿过灌木丛，但感谢上帝，那里没有人。	1
+`` If I did n't know you were a good man , Walters , I should put a black mark against you for this .	”“如果我不知道你是个好人，沃尔特，我就给你打黑牌。	1
+If it were the devil himself a constable on duty should never thank God that he could not lay his hands upon him .	如果是魔鬼自己，一个值勤的警官永远不能感谢上帝，因为他不能把手放在他身上。	1,1
+I suppose the whole thing is not a vision and a touch of nerves ? ''	我想整个事情不是一个幻象和一个书呆子?”	1
+The various bedrooms and sitting-rooms had yielded nothing to a careful search .	各种各样的卧室和起居室对仔细搜查毫无结果。	1
+Apparently the tenants had brought little or nothing with them , and all the furniture down to the smallest details had been taken over with the house .	很明显，那些男高音的人很少或根本就没有带他们，所有的家具，最细微的细节，都被房子接管了。	1
+Telegraphic inquiries had been already made which showed that Marx knew nothing of his customer save that he was a good payer .	已经进行了电报查询，显示马克斯对他的客户一无所知，只是他是一个好的付款人。	1
+`` Nothing in all this , '' said Baynes , stalking , candle in hand , from room to room .	“这里面什么也没有，”巴恩斯说，不停地跟踪，手里拿着手杖，从一个房间到另一个房间。	1
+But Mr. Baynes had kept his most sinister exhibit to the last .	但是贝恩斯先生把他最拿手的展览一直保留到最后。	null
+He says that they are not human . ''	他说他们不是人。	1
+`` I must congratulate you , Inspector , on handling so distinctive and instructive a case .	检查专员，我必须祝贺你处理如此独特和具有指导意义的案件。	null
+Your powers , if I may say so without offence , seem superior to your opportunities . ''	如果我可以毫不冒犯地说，你的能力似乎比你的机会优越。”	1
+We stagnate in the provinces .	我们在各省停滞不前。	null
+I should say almost unique . ''	我要说的几乎是独一无二的。	null
+But my own views are different .	但我自己的观点不同。	null
+Yes , sir , my own views are very different . ''	是的，先生，我自己的看法完全不同。	null
+I should be glad to be able to say afterwards that I had solved it without your help . ''	我很高兴以后能说我没有你的帮助就解决了这个问题。”	1
+I could tell by numerous subtle signs , which might have been lost upon anyone but myself , that Holmes was on a hot scent .	我可以从许多微妙的迹象中看出，除了我自己之外，其他任何人都可能失去这种迹象。	null
+As impassive as ever to the casual observer , there were none the less a subdued eagerness and suggestion of tension in his brightened eyes and brisker manner which assured me that the game was afoot .	对这位漫不经心的观察者来说，他那刚毅的眼睛和活泼的态度，也同样使我确信这场比赛正在进行中，他的急切心情和紧张的暗示丝毫没有减弱。	null
+After his habit he said nothing , and after mine I asked no questions .	在他习惯之后，他什么也没说。	1,-3
+Sufficient for me to share the sport and lend my humble help to the capture without distracting that intent brain with needless interruption .	足以让我分享这项运动，并在不受不必要的干扰的情况下，为捕获提供谦卑的帮助。	1,1
+Day succeeded day , and my friend took no step forward .	日子一天天地过去，我的朋友没有向前迈进。	1
+Save for this one excursion , he spent his days in long and often solitary walks , or in chatting with a number of village gossips whose acquaintance he had cultivated .	除了这次旅行之外，他每天都在漫长而又常常是孤独的散步中，或者和一些他认识的村民闲聊。	1
+He said little about the case , but from that little we gathered that he also was not dissatisfied at the course of events .	他对这件事没有说什么，但从我们收集到的那一点来看，他对事情的发展也不感到不满。	1,1
+`` You do n't mean that Baynes has got him ? ''	“你不是说贝恩斯抓住了他?”	1
+It was suggested , but never proved , that the deceased gentleman may have had valuables in the house , and that their abstraction was the motive of the crime .	有人提出，但从未证明，死者的先生可能在家里有贵重物品，他们的抽象是犯罪的动机。	1
+Every effort was made by Inspector Baynes , who has the case in hand , to ascertain the hiding place of the fugitives , and he had good reason to believe that they had not gone far but were lurking in some retreat which had been already prepared .	巴恩斯检查专员已尽一切努力查明难民的藏身之处，他有充分的理由相信他们并没有走得太远，而是躲在已经准备好的撤退地点。	1
+Pray do n't think it a liberty if I give you a word of friendly warning . ''	如果我给你一个友好的警告的话，请不要认为这是自由。	1
+`` I have looked into this case with some care , and I am not convinced that you are on the right lines .	“我已经仔细地研究了这个案子，我不相信你是正确的。	1
+I do n't want you to commit yourself too far unless you are sure . ''	除非你确定，否则我不希望你做得过分。	1
+`` Do n't blame me . ''	别怪我。	1
+`` No , sir ; I believe you mean well by me .	”“是的，先生。	-3
+`` Let us say no more about it . ''	我们不要再说了。	1
+He hardly speaks a word of English , and we can get nothing out of him but grunts . ''	他几乎连英语都不会说，我们只能勉强从他身上得到。”	-3
+`` I did n't say so , Mr. Holmes ; I did n't say so .	”“我没有这么说，福尔摩斯先生，我没有这么说。	1,1
+`` I ca n't make the man out .	”“我不能把这个人弄出来。	1
+But there 's something in Inspector Baynes which I ca n't quite understand . ''	但是巴恩斯探长有一点我不太明白.”	1
+The proof of this lies in the fact that it was he who had arranged for the presence of Scott Eccles , which could only have been done for the purpose of an alibi .	证明这一点的事实是，是他安排了苏格兰埃克勒斯的出现，而这只能是为了不在犯罪现场。	null
+I say ` criminal ' because only a man with a criminal enterprise desires to establish an alibi .	我说‘犯罪’是因为只有一个有犯罪意图的人才愿意证明不在犯罪现场。	null
+They were all confederates in the same unknown crime .	他们都是同一未知罪行的联盟.	1
+But the attempt was a dangerous one , and if Garcia did not return by a certain hour it was probable that his own life had been sacrificed .	但是这次企图是很危险的，如果加西亚一小时没有回来，他自己的生命就被神圣化了。	1
+The whole inexplicable tangle seemed to straighten out before me .	整个莫名其妙的纠结似乎在我面前显露出来.	0
+I wondered , as I always did , how it had not been obvious to me before .	我一直在想，以前我怎么也不明白。	1
+`` But why should one servant return ? '' `` We can imagine that in the confusion of flight something precious , something which he could not bear to part with , had been left behind .	”“但是，为什么一个仆人要回来呢？”“我们可以想象，在混乱的飞行中，什么宝贵的东西——他不能忍受的东西——被抛在后面了。	1
+It is the famous old Jacobean grange of High Gable , one mile on the farther side of Oxshott , and less than half a mile from the scene of the tragedy .	它是著名的高盖特的老雅可豆庄园，离奥克斯肖特那边一英里，离悲剧现场不到半英里。	null
+The other mansions belonged to prosaic and respectable people who live far aloof from romance .	其他的豪宅属于异教徒和受人尊敬的人，他们住在远离欢乐的地方。	null
+He is either a foreigner or has lived long in the tropics , for he is yellow and sapless , but tough as whipcord .	他要么是外国人，要么在热带地区生活了很久，因为他是黄色的，黄褐色的，但却很强硬。	-3
+His friend and secretary , Mr. Lucas , is undoubtedly a foreigner , chocolate brown , wily , suave , and catlike , with a poisonous gentleness of speech .	他的朋友兼秘书卢卡斯先生无疑是个外国人，他是个巧克力棕色、圆滑、可爱、说话温柔的人。	1
+It is only within the last weeks that he has returned , after a year 's absence , to High Gable .	只有在最后几个星期里，他离开一年后才回到了高盖布尔。	null
+There are no better instruments than discharged servants with a grievance , and I was lucky enough to find one .	没有比可怜的退役军人更好的工具了，我很幸运找到了一个。	1
+I call it luck , but it would not have come my way had I not been looking out for it .	我把它叫做幸运，但如果我没有去寻找它，它就不会来。	1,1
+He in turn had friends among the indoor servants who unite in their fear and dislike of their master .	他又在室内仆人中结交了朋友，他们因害怕和厌恶主人而团结在一起。	0
+I do n't pretend to understand it all yet , but very curious people anyway . It 's a double-winged house , and the servants live on one side , the family on the other .	我并不打算完全理解这一点，但不管怎样，我还是很好奇的人，那是个双翼的房子，仆人们住在一边，一家人住在另一边。	1
+There 's no link between the two save for Henderson 's own servant , who serves the family 's meals .	除了亨德森自己的仆人之外，他们之间没有任何联系。	1
+Governess and children hardly go out at all , except into the garden .	家庭教师和孩子们几乎不出去,只有到花园里去.	null
+Henderson never by any chance walks alone .	亨德森从来不可能独自行走。	1
+His dark secretary is like his shadow .	他的黑秘书就像他的影子.	null
+Where they came from , or who they are , nobody has an idea .	他们来自哪里，或者他们是谁，谁也不知道。	1
+I may add that Miss Burnet 's age and character make it certain that my first idea that there might be a love interest in our story is out of the question .	我可以补充说，伯内特小姐的年龄和性格使我确信，我的第一个想法，可能有爱的兴趣在我们的故事是不可能的。	null
+But now we come to a sinister fact . Miss Burnet has not been seen by any human eye since the night of the murder .	但是现在我们开始了解了一个狡猾的事实，自从谋杀发生的那天晚上，人们就没有看到过伯内特小姐。	1
+From that evening she has utterly vanished .	从那天晚上起，她就痛苦万分地消失了。	null
+There is nothing upon which we can apply for a warrant . Our whole scheme might seem fantastic if laid before a magistrate .	没有什么可供我们申请的授权令。我们的整个计划如果被提交给裁判法院，可能会显得很神奇。	1
+The woman 's disappearance counts for nothing , since in that extraordinary household any member of it might be invisible for a week .	这个女人的失踪毫无意义，因为在这个特殊的家庭里，任何一个人可能在一个星期内都看不见。	1,1
+We ca n't let such a situation continue .	我们不能让这种情况继续下去。	1
+If the law can do nothing we must take the risk ourselves . ''	如果法律无能为力，我们必须自己承担风险。	1
+It was not , I must confess , a very alluring prospect .	我必须承认，这不是一个非常诱人的前景。	1
+The old house with its atmosphere of murder , the singular and formidable inhabitants , the unknown dangers of the approach , and the fact that we were putting ourselves legally in a false position all combined to damp my ardour .	这座古老的房子充满了谋杀的气氛，独居的和形式化的居民，这种做法的未知危险，以及我们把自己置于合法地位的事实，所有这些都削弱了我的热情。	1
+But there was something in the ice-cold reasoning of Holmes which made it impossible to shrink from any adventure which he might recommend .	但在霍尔墨斯的冷冰冰的推理中，有些东西使他不可能从任何他可能推荐的冒险中退缩。	1
+I clasped his hand in silence , and the die was cast .	我默默地握住他的手,死了.	null
+But it was not destined that our investigation should have so adventurous an ending .	但我们的调查注定不会有这样的结局。	-2
+Her head hung listlessly upon her breast , but as she raised it and turned her dull eyes upon us I saw that her pupils were dark dots in the centre of the broad gray iris .	她的头无精打采地垂在胸前，但当她抬起头，呆呆地望着我们时，我看到她的瞳孔是灰色大虹膜中央的黑点。	null
+I sha n't forget the face at the carriage window as I led her away . I 'd have a short life if he had his way -- the black-eyed , scowling , yellow devil . '' We carried her upstairs , laid her on the sofa , and a couple of cups of the strongest coffee soon cleared her brain from the mists of the drug .	当我带着她走的时候，我不会忘记车窗上的脸，如果他走了，我就会有短暂的生命——那个黑眼睛、皱眉、黄魔鬼。	1
+`` I was sure Henderson , as he calls himself , felt that he was suspected , and that he would lie low and make no move so long as he thought he was in any danger .	”“我确信亨德森，就像他自称的那样，觉得有人怀疑他，只要他认为他有危险，他就会低下头，不动。	1
+I arrested the wrong man to make him believe that our eyes were off him .	我逮捕了那个错误的人，让他相信我们的眼睛离他很远。	null
+But he must have been hard put to it when Miss Burnet broke away .	但是当伯内特小姐分手时，他一定是很难对付的。	null
+We ca n't arrest without her evidence , that is clear , so the sooner we get a statement the better . ''	显然，如果没有她的证据，我们就不会逮捕她，所以我们越早得到证词就越好。	1,1
+Strong , fearless , and energetic , he had sufficient virtue to enable him to impose his odious vices upon a cowering people for ten or twelve years .	他坚强、无畏、精力充沛，有足够的德行，使他能够把他的恶习强加给一个贪婪的人十年或十二年。	1
+It was an empty palace which was stormed by the insurgents next day .	那是一座空荡荡的宫殿，第二天被暴动者们冲垮了。	null
+Now , again , it is the noble , chivalrous Garcia who has fallen , while the monster goes safe .	现在，又是高贵的，有风度的加西亚倒下了，而怪物安全了。	null
+`` I join in it because there is no other way in the world by which justice can be gained .	我之所以参加这次会议，是因为世界上没有其他方法可以伸张正义。	1
+To us there is no fiend in hell like Juan Murillo , and no peace in life while his victims still cry for vengeance . ''	对我们来说，地狱里没有象胡安·穆里洛这样的恶魔，当他的受害者还在为复仇而哭泣时，生活中也没有安宁。”	1,1
+Unhappily , Murillo heard of his excellence , recalled him on some pretext , and had him shot .	不幸的是，Murillo听到他的卓越表现，以某种借口召回他，并将他枪杀。	null
+With a premonition of his fate he had refused to take me with him .	他预感到自己的命运，拒绝带我去。	null
+But the many whose lives he had ruined , whose nearest and dearest had suffered torture and death at his hands , would not let the matter rest .	但是，他所毁灭的许多人，他们最近和最亲爱的人，在他的手中遭受了酷刑和死亡，他们不会让事情平息下去。	1
+They banded themselves into a society which should never be dissolved until the work was done .	他们把自己扎进了一个直到完成工作才应该解散的社会。	0
+He little knew that the woman who faced him at every meal was the woman whose husband he had hurried at an hour 's notice into eternity .	他几乎不知道每顿饭面对他的那个女人就是他的丈夫在一小时的时间内急急忙忙奔向永恒的女人。	null
+He could do little during the day , for Murillo took every precaution and never went out save with his satellite Lucas , or Lopez as he was known in the days of his greatness .	他白天几乎无能为力，因为默里洛采取了一切预防措施，除了他的卫星卢卡斯和洛佩斯之外，他从不外出。	1
+On a certain evening , which had been prearranged , I sent my friend final instructions , for the man was forever on the alert and continually changed his room .	有一天晚上，经过事先安排，我给我的朋友发出了最后的指示，因为那人永远处于戒备状态，不断地变换房间。	null
+`` But everything went wrong with us .	”“但一切都出了问题。	null
+How they murdered him I do not know , save that it was Murillo 's hand who struck him down , for Lopez had remained to guard me .	我不知道他们是怎么杀他的，除非是穆瑞洛的手打了他，因为洛佩斯一直在保护我。	1
+`` All would now have been well for them had it not been for my knowledge of what they had done .	”“如果我不知道他们做了什么，现在对他们来说一切都会好的。	1
+I have no doubt that there were times when my life hung in the balance .	我毫不怀疑，有时我的生活还在平衡之中。	1
+For five days this cruel imprisonment continued , with hardly enough food to hold body and soul together .	这种残酷的监禁持续了五天，几乎没有足够的食物来支撑身体和灵魂。	null
+I sprang out , they tried to drag me back , and had it not been for the help of this good man , who led me to the cab , I should never had broken away .	我冲出去了，他们想把我拖回来，要不是因为这个把我带到洞口的好人的帮助，我就永远不会离开。	1,1
+We had all listened intently to this remarkable statement .	我们都认真地听取了这一了不起的发言。	null
+It was Holmes who broke the silence . `` Our difficulties are not over , '' he remarked , shaking his head .	是霍尔墨斯打破了沉默，“我们的困难还没有结束，”他摇着头说。	1
+No , no , we shall all be justified when we see the tenants of High Gable at the next Guildford Assizes . ''	不，不，当我们在下一次Guildford巡回大会上看到高盖布尔的男高音时，我们都是有道理的。”	1,1
+From that day they were seen no more in England .	从那天起，他们就不再在英国露面了。	1
+The crime was ascribed to Nihilism , and the murderers were never arrested .	这一罪行被指控为尼希里主义，凶手从未被捕。	1
+We could not doubt that justice , if belated , had come at last .	我们毫不怀疑，正义如果被拖延，最终会到来。	1
+`` It will not be possible for you to present in that compact form which is dear to your heart . It covers two continents , concerns two groups of mysterious persons , and is further complicated by the highly respectable presence of our friend , Scott Eccles , whose inclusion shows me that the deceased Garcia had a scheming mind and a well-developed instinct of self-preservation .	“您不可能以您心中所珍爱的那种紧凑的形式出现，它涉及到两个大陆，涉及到两组神秘的人，而且由于我们的朋友斯考特·埃克勒斯的存在而更加复杂。	1
+Is there any point which is not quite clear to you ? ''	有一点你不太清楚吗?”	1
+Here is a quotation from Eckermann 's Voodooism and the Negroid Religions : `` ` The true voodoo-worshipper attempts nothing of importance without certain sacrifices which are intended to propitiate his unclean gods .	这里引用了埃克曼的“木材主义”和“黑人宗教”的一句格言：“真正的伏都教信徒，如果不做出某些旨在毁灭他不洁的神的牺牲，就没有什么重要意义。	1,1,1
+It is , however , unfortunately impossible entirely to separate the sensational from the criminal , and a chronicler is left in the dilemma that he must either sacrifice details which are essential to his statement and so give a false impression of the problem , or he must use matter which chance , and not choice , has provided him with .	然而，不幸的是，完全不可能将感觉与罪犯区分开来，一个编年史的人陷入了两难的境地，他要么牺牲其陈述所必需的细节，从而给问题留下错误的印象，要么他必须使用给他带来机会而不是选择的东西。	1,1
+For myself , my term of service in India had trained me to stand heat better than cold , and a thermometer at ninety was no hardship .	对我自己来说，我在印度的服役期间训练我比寒冷更耐热，而90岁时的热力计并不艰苦。	1
+But the morning paper was uninteresting .	但晨报并不有趣。	1
+Everybody was out of town , and I yearned for the glades of the New Forest or the shingle of Southsea . A depleted bank account had caused me to postpone my holiday , and as to my companion , neither the country nor the sea presented the slightest attraction to him . He loved to lie in the very center of five millions of people , with his filaments stretching out and running through them , responsive to every little rumour or suspicion of unsolved crime .	每个人都不在城里，我渴望新森林的光辉，渴望灵魂的光辉，一个枯竭的银行账户使我推迟了假期，至于我的公司，国家和大海都没有给他带来最吸引人的东西，他喜欢躺在五百万人的中心，他的丝带展开，穿过它们，对我们的每一点怀疑都做出回应已破案。	1,-3
+Appreciation of nature found no place among his many gifts , and his only change was when he turned his mind from the evil-doer of the town to track down his brother of the country .	他的许多礼物中都找不到欣赏大自然的地方，他唯一的改变就是他改变了主意，不再去想那个镇上的恶棍，去追查他的祖国兄弟。	1
+Finding that Holmes was too absorbed for conversation I had tossed aside the barren paper , and leaning back in my chair I fell into a brown study .	我发现霍尔墨斯太专注于谈话，只好把那张顶板纸放在一边，然后躺在椅子上，开始了一项棕色的研究。	null
+`` This is beyond anything which I could have imagined . ''	“这超出了我想象的范围。”	null
+He laughed heartily at my perplexity .	他对我的任性狂笑.	null
+`` You remember , '' said he , `` that some little time ago when I read you the passage in one of Poe 's sketches in which a close reasoner follows the unspoken thoughts of his companion , you were inclined to treat the matter as a mere tour-de-force of the author .	“你还记得，”他说，“过了一会儿，当我在坡的一张软纸上读到一个很有道理的人在跟踪他的同事的那些直言不讳的想法时，你就倾向于把这件事看作是作者的一种游历。	null
+On my remarking that I was constantly in the habit of doing the same thing you expressed incredulity . ''	我说我一直习惯做同样的事，你对此表示怀疑。	0
+`` Oh , no ! ''	“不！	1
+`` Perhaps not with your tongue , my dear Watson , but certainly with your eyebrows .	”“也许不是用你的舌头，亲爱的沃森，而是用你的眼睛。	1
+But I was still far from satisfied .	但我仍然很不满意。	1
+If I remember right , he stumbled over a heap of stones , looked up at the stars , and so on .	如果我记得正确的话，他就会被一堆石头绊倒，抬头看着星星等等。	null
+`` You do yourself an injustice .	“你这样做是不公正的。	1
+Perhaps you can not yourself recall how your reverie commenced ? ''	也许你自己不记得你的遐想是怎么开始的?”	1
+`` No , I can not . ''	“不，我不能。	1,1
+After throwing down your paper , which was the action which drew my attention to you , you sat for half a minute with a vacant expression .	把你的报纸扔了下来，这是使我注意到你的行动，你呆呆地坐了半分钟。	null
+But it did not lead very far .	但这并没有起到很大的作用。	1
+Your eyes flashed across to the unframed portrait of Henry Ward Beecher which stands upon the top of your books .	你的眼睛闪过，看到了亨利·沃德·比彻的未磨损的肖像。	1
+`` So far I could hardly have gone astray .	”“到目前为止，我简直不能走开。	null
+You were recalling the incidents of Beecher 's career . I was well aware that you could not do this without thinking of the mission which he undertook on behalf of the North at the time of the Civil War , for I remember your expressing your passionate indignation at the way in which he was received by the more turbulent of our people .	我很清楚，你不考虑他在南北战争时代表北方执行的任务，就不可能这样做，因为我记得你对我国人民更加动荡的态度表达了你的深情。	1,1
+You felt so strongly about it that I knew you could not think of Beecher without thinking of that also . When a moment later I saw your eyes wander away from the picture , I suspected that your mind had now turned to the Civil War , and when I observed that your lips set , your eyes sparkled , and your hands clenched I was positive that you were indeed thinking of the gallantry which was shown by both sides in that desperate struggle .	过了一会儿，我看到你的目光从画面上滑落，我怀疑你的头脑已经转向了南北战争，当我看到你的嘴唇紧闭时，你的眼睛闪闪发亮，双手紧握，我确信你确实在考虑双方在这场斗争中表现出的勇敢。	1,-3
+You were dwelling upon the sadness and horror and useless waste of life . Your hand stole towards your own old wound and a smile quivered on your lips , which showed me that the ridiculous side of this method of settling international questions had forced itself upon your mind .	你正想着悲伤、恐怖和无谓的生命浪费，你的手悄悄走向你自己的旧伤，你的嘴唇上挂着微笑，这表明，这种解决国际问题的方法的可笑的一面迫使你思考。	1
+`` And now that you have explained it , I confess that I am as amazed as before . ''	“现在你已经解释了，我承认我和以前一样吃惊。”	null
+I should not have intruded it upon your attention had you not shown some incredulity the other day .	如果你那天没有表现出一点怀疑的话，我就不会打扰你了。	1,1
+`` No , I saw nothing . ''	“不，我什么也没看见。	1,1
+On emptying this , Miss Cushing was horrified to find two human ears , apparently quite freshly severed .	在清空这些东西的时候，库欣小姐发现两只耳朵，显然是刚刚缝好的。	null
+There is no indication as to the sender , and the matter is the more mysterious as Miss Cushing , who is a maiden lady of fifty , has led a most retired life , and has so few acquaintances or correspondents that it is a rare event for her to receive anything through the post .	至于送信的人，没有迹象表明，这件事就更加神秘了，因为库欣小姐是一位五十岁的小姐，她过着最退休的生活，很少有熟人或信件往来，因此她很少有机会通过邮局收到任何东西。	1
+Some years ago , however , when she resided at Penge , she let apartments in her house to three young medical students , whom she was obliged to get rid of on account of their noisy and irregular habits . The police are of opinion that this outrage may have been perpetrated upon Miss Cushing by these youths , who owed her a grudge and who hoped to frighten her by sending her these relics of the dissecting-rooms .	然而，几年前，当她因后悔而退伍时，她把自己家里的房间让给了三个年轻的医科学生，由于他们的坏脾气和不正常的习惯，她不得不把他们赶走。	1
+We have every hope of clearing the matter up , but we find a little difficulty in getting anything to work upon . We have , of course , wired to the Belfast post-office , but a large number of parcels were handed in upon that day , and they have no means of identifying this particular one , or of remembering the sender .	当然，我们已经到贝尔法斯特邮局去了，但那天收到了大量的包裹，他们无法辨认这一件，也无法记住寄件人。	1
+The box is a half-pound box of honeydew tobacco and does not help us in any way .	这个盒子是半磅的蜂蜜烟草盒，对我们没有任何帮助。	1
+Can you rise superior to the heat and run down to Croydon with me on the off chance of a case for your annals ? ''	你能比酷热的时候站起来，和我一起跑到Croydon吗？	null
+A shower of rain fell while we were in the train , and the heat was far less oppressive in Croydon than in town .	我们在火车上的时候下了阵雨，克罗伊敦的热度比镇上的热度要低得多。	null
+`` What is the use of asking me questions when I tell you I know nothing whatever about it ? ''	“当我告诉你我什么都不知道的时候，问我问题有什么用？”	1
+`` I have no doubt that you have been annoyed more than enough already over this business . ''	“我毫不怀疑，你对这件事已经够生气了。”	1
+I wo n't have those things in here , Mr. Lestrade .	我这儿没有这些东西，莱斯特德先生。	1
+`` It has been tarred . ''	“它被玷污了。”	null
+`` I can not see the importance , '' said Lestrade .	“我看不出它的重要性。	1
+`` The importance lies in the fact that the knot is left intact , and that this knot is of a peculiar character . ''	“重要的是knot的动作要灵活，而且这个knot具有独特的特点。”	null
+What , did you not observe it ? I think there can be no doubt of it . Address printed in rather straggling characters : ` Miss S. Cushing , Cross Street , Croydon . '	什么，你没注意到吗？我想这是毫无疑问的。地址印着相当杂乱的字体：克罗伊登克罗斯街的库欣小姐。	1,1
+The parcel was directed , then , by a man -- the printing is distinctly masculine -- of limited education and unacquainted with the town of Croydon .	那包裹是由一个受过有限教育、对克罗伊顿镇一无所知的人指挥的----印刷是独特的吉祥物。	1
+`` You have observed , of course , '' said he at last , `` that the ears are not a pair . ''	“你当然注意到了，”他最后说，“耳朵不是一对。”	1
+`` Yes , I have noticed that .	”“是的，我注意到了。	null
+But if this were the practical joke of some students from the dissecting-rooms , it would be as easy for them to send two odd ears as a pair . ''	但是，如果这是一些来自分隔室的学生的恶作剧的话，他们就像一对夫妇一样容易发出两只奇怪的耳朵。	null
+But this is not a practical joke . ''	但这不是一个实际的笑话。	1
+`` The presumption is strongly against it .	这一推定强烈反对。	null
+These ears bear no signs of this .	这些耳朵没有这种迹象。	1
+They have been cut off with a blunt instrument , which would hardly happen if a student had done it . Again , carbolic or rectified spirits would be the preservatives which would suggest themselves to the medical mind , certainly not rough salt .	他们被一种杂乱的仪器切断了，如果一个学生这么做的话，这是不可能发生的。	1
+I repeat that there is no practical joke here , but that we are investigating a serious crime . ''	我再说一遍，这里没有实际的笑话，但我们正在调查严重的罪行。	1
+This brutal preliminary seemed to shadow forth some strange and inexplicable horror in the background .	这个残酷的初步审判似乎在背后暗示着一些奇怪和无法解释的恐怖。	1
+Lestrade , however , shook his head like a man who is only half convinced . `` There are objections to the joke theory , no doubt , '' said he , `` but there are much stronger reasons against the other .	“毫无疑问，有人反对这个笑话理论，”他说，“但有更有力的理由反对另一个。	null
+Why on earth , then , should any criminal send her the proofs of his guilt , especially as , unless she is a most consummate actress , she understands quite as little of the matter as we do ? ''	那么，究竟为什么任何一个罪犯要把他的罪证送她去呢？尤其是因为，除非她是一个最完美的女人，她对这件事的理解和我们一样少？	null
+The other is a man 's , sun-burned , discoloured , and also pierced for an earring .	另一个是一个人的，被太阳灼伤，被冷落，还被钉上耳环。	-1
+She might have buried the ears , and no one would have been the wiser .	她可能埋下了耳朵，谁也不会更聪明。	1
+But if she does not wish to shield him she would give his name .	但如果她不想庇护他，她就会说出他的名字。	1
+I think that I have nothing further to learn from Miss Cushing .	我想我再也没有什么可学的了。	1
+`` I am convinced , sir , '' she said , `` that this matter is a mistake , and that the parcel was never meant for me at all .	”“我相信，先生，”她说，“这件事是个错误，我根本就没有想到这个包裹。	-1
+I have not an enemy in the world , as far as I know , so why should anyone play me such a trick ? ''	就我所知，世界上没有敌人，为什么有人要耍我这样的花招呢？	1
+Surprise and satisfaction were both for an instant to be read upon his eager face , though when she glanced round to find out the cause of his silence he had become as demure as ever .	他急切的脸上立刻露出了惊奇和满足的神情，尽管当她突然转过身来找出他沉默的原因时，他变得像以前一样端庄了。	null
+I stared hard myself at her flat , grizzled hair , her trim cap , her little gilt earrings , her placid features ; but I could see nothing which could account for my companion 's evident excitement .	我使劲盯着她那扁平的、灰蒙蒙的头发、她的三头帽子、她的小毛耳环、她平静的体态；但是我什么也看不到，这说明我的公司显然很兴奋。	1
+`` Oh , I am weary of questions ! '' cried Miss Cushing impatiently .	“哦，我对问题厌烦了！”库欣小姐气冲冲地叫道。	0
+`` I observed the very instant that I entered the room that you have a portrait group of three ladies upon the mantelpiece , one of whom is undoubtedly yourself , while the others are so exceedingly like you that there could be no doubt of the relationship . ''	“就在我走进房间的那一刻，我注意到壁炉架上有一组由三位女士组成的画像，其中一位无疑是你自己，而其他人则非常像你，他们的关系是毫无疑问的。”	1
+I observe that she was unmarried at the time . ''	我注意到她当时没有结婚。”	1
+He was on the South American line when that was taken , but he was so fond of her that he could n't abide to leave her for so long , and he got into the Liverpool and London boats . ''	当这一切发生时，他是在南美洲的航线上，但他是如此的富有，以至于他不能忍受离开她这么久，于是他进入了利弗浦和伦敦的船只。	1
+`` Ah , the Conqueror , perhaps ? ''	”“啊，也许是康奎尔人？	null
+`` No , the May Day , when last I heard .	”“不，五一，我上次听到的时候。	1
+Ah ! it was a bad day that ever he took a glass in his hand again .	啊！这是个糟糕的一天，他又拿了一杯。	null
+First he dropped me , then he quarrelled with Sarah , and now that Mary has stopped writing we do n't know how things are going with them . ''	先是他扔下我，然后他和莎拉夸耀一番，现在玛丽已经停止写作了，我们不知道他们怎么了。	1
+Holmes listened attentively to everything , throwing in a question from time to time .	霍尔墨斯全神贯注地听着一切,不时地提出一个问题.	null
+`` I wonder , since you are both maiden ladies , that you do not keep house together . ''	“我不知道，既然你们都是宫女，你们不住在一起。”	1
+`` Ah ! you do n't know Sarah 's temper or you would wonder no more .	“啊！你不知道莎拉的脾气，否则你就不会再想了。	1,1
+I do n't want to say a word against my own sister , but she was always meddlesome and hard to please , was Sarah . ''	我不想对我妹妹说一句话，但她总是心神不定，难以取悦，莎拉。	1
+And now she has no word hard enough for Jim Browner .	现在她对吉姆·布罗纳没有足够的信心。	1
+The last six months that she was here she would speak of nothing but his drinking and his ways .	在她来的最后六个月里，除了他的酗酒和他的行为之外，她什么也不说。	null
+Good-bye , and I am very sorry that you should have been troubled over a case with which , as you say , you have nothing whatever to do . ''	再见了，我很抱歉，你会因为一个案子而烦恼，就像你说的，你什么都没做。”	1
+Our drive pulled up at a house which was not unlike the one which we had just quitted .	我们的车子停在一座房子里，这与我们刚离开的房子并不不同。	1,1
+As her medical adviser , I can not possibly take the responsibility of allowing anyone to see her .	作为她的医疗顾问，我不可能承担允许任何人见她的责任。	1
+`` Well , if we ca n't we ca n't , '' said Holmes , cheerfully .	“好吧，如果我们不能的话，”霍尔墨斯愉快地说。	1,-3
+`` Perhaps she could not or would not have told you much . ''	”“也许她不会，也不会告诉你很多。	1,1
+`` I did not wish her to tell me anything .	”“我不希望她告诉我什么。	1
+Drive us to some decent hotel , cabby , where we may have some lunch , and afterwards we shall drop down upon friend Lestrade at the police-station . '' We had a pleasant little meal together , during which Holmes would talk about nothing but violins , narrating with great exultation how he had purchased his own Stradivarius , which was worth at least five hundred guineas , at a Jew broker 's in Tottenham Court Road for fifty-five shillings .	您必须遵守《全国人大常委会关于维护互联网安全的决定》及中华人民共和国其他有关法律法规55个先令。	null
+`` I was never more serious in my life .	”“我的生活从来没有这么严肃过。	1
+`` You can not effect an arrest until to-morrow night at the earliest .	“你最早要到明天晚上才能逮捕。	0
+I should prefer that you do not mention my name at all in connection with the case , as I choose to be only associated with those crimes which present some difficulty in their solution .	我宁愿你在案件中根本不提及我的名字，因为我选择只与那些给解决这些问题带来一些困难的罪行有关。	1
+That he may be safely trusted to do , for although he is absolutely devoid of reason , he is as tenacious as a bulldog when he once understands what he has to do , and indeed , it is just this tenacity which has brought him to the top at Scotland Yard . ''	他可以放心地信任他去做，因为虽然他完全没有理由，但当他曾经明白他必须做的事情时，他就像一只公牛一样顽强，而且，正是这种顽强才使他在苏格兰场登上了顶峰。	null
+`` Your case is not complete , then ? '' I asked .	”我问道。	1
+We know who the author of the revolting business is , although one of the victims still escapes us .	我们知道造反事业的作者是谁，尽管其中一个受害者仍然逃之夭夭。	null
+`` And yet I can not see anything save very vague indications . ''	“但除了非常模糊的迹象，我什么也看不到。”	1
+`` On the contrary , to my mind nothing could be more clear .	”“恰恰相反，在我看来，没有什么比这更清楚了。	1
+We approached the case , you remember , with an absolutely blank mind , which is always an advantage .	你记得，我们在处理这个案子时，头脑完全是空白的，这总是一个优势。	null
+We had formed no theories .	我们没有形成任何理论。	1
+A very placid and respectable lady , who seemed quite innocent of any secret , and a portrait which showed me that she had two younger sisters .	一个非常平静和体面的女士，似乎对任何秘密都是无辜的，还有一幅画像向我表明她有两个妹妹。	null
+`` As a medical man , you are aware , Watson , that there is no part of the body which varies so much as the human ear .	”“作为一个医生，你知道，沃森，身体的任何部分都不像人的耳朵那样变化。	1
+Each ear is as a rule quite distinctive and differs from all other ones .	每个耳朵通常都是与众不同的,而且与所有其他的耳朵都不同.	null
+In all essentials it was the same ear . `` In the first place , her sister 's name was Sarah , and her address had until recently been the same , so that it was quite obvious how the mistake had occurred and for whom the packet was meant .	“首先，她姐姐的名字叫莎拉，她的地址直到最近一直是一样的，所以很明显，这个错误是怎么发生的，是谁的。	null
+This quarrel had put a stop to all communications for some months , so that if Browner had occasion to address a packet to Miss Sarah , he would undoubtedly have done so to her old address .	这只四分鱼已经停止了几个月的通讯，所以如果布罗纳有机会和萨拉小姐搭个小包的话，他肯定会这样对待她的老地址。	0
+`` A second solution was at this stage obviously possible , and although I thought it exceedingly unlikely , I was determined to elucidate it before going further .	”“在这一阶段，显然有可能找到第二个解决办法，尽管我认为这不大可能，但我决心在继续努力之前先把它简化。	1
+An unsuccessful lover might have killed Mr. and Mrs. Browner , and the male ear might have belonged to the husband .	一个不成功的情人可能杀死了布罗纳夫妇，而男性的耳朵可能属于丈夫。	1
+Then , of course , she might give us very important information , but I was not sanguine that she would .	当然，她可能会给我们提供非常重要的信息，但我并不乐观。	1
+`` However , we were really independent of her help .	”“但是，我们完全独立于她的帮助。	null
+Nothing could be more conclusive .	没有什么比这更令人费解的了。	1
+When he arrives he will be met by the obtuse but resolute Lestrade , and I have no doubt that we shall have all our details filled in . ''	当他到达的时候，他将会被固执但坚决的莱斯特莱德所遇见，我毫不怀疑我们会把我们所有的细节都填进去。”	1
+Sherlock Holmes was not disappointed in his expectations .	夏洛克·霍姆斯对他的期望并不失望。	1
+He jumped up when he heard my business , and I had my whistle to my lips to call a couple of river police , who were round the corner , but he seemed to have no heart in him , and he held out his hands quietly enough for the darbies .	他一听到我的事就跳了起来，我就用口哨叫了几个河警，他们都在拐角处，但他似乎并不关心他，他就安静地伸出双手去迎接那些坏蛋。	1
+We brought him along to the cells , and his box as well , for we thought there might be something incriminating ; but , bar a big sharp knife such as most sailors have , we got nothing for our trouble .	我们把他带到牢房里，还有他的箱子里，因为我们认为可能有什么罪恶行径；但是，把一把大锋利的刀，像大多数圣徒一样，我们什么也没得到。	1
+However , we find that we shall want no more evidence , for on being brought before the inspector at the station he asked leave to make a statement , which was , of course , taken down , just as he made it , by our shorthand man .	然而，我们发现，我们不再需要任何证据，因为当他被带到车站的检查员面前要求允许他发表声明时，我们的速记员当然把他的话记录下来了。	-1
+With kind regards ,	出于好意，	null
+The investigation really was a very simple one , '' remarked Holmes , `` but I do n't think it struck him in that light when he first called us in .	调查确实很简单，“重新标记了霍尔墨斯”，但我不认为他第一次打电话给我们时是这样的。	1
+You can hang me , or you can leave me alone .	你可以把我绞死，也可以让我一个人呆着。	null
+I do n't care a plug which you do .	我不在乎你的插头。	1
+I tell you I 've not shut an eye in sleep since I did it , and I do n't believe I ever will again until I get past all waking .	我告诉你，自从我这样做以后，我没有闭上一只眼睛睡觉，我也不相信我会再一次醒来。	1,1
+I 'm never without one or the other before me .	我从来没有一个人在我面前。	1
+It 's not that I want to clear myself .	我不想澄清自己。	1
+But she would have forgiven me ; she would have stuck as close to me as a rope to a block if that woman had never darkened our door .	但是她会原谅我的，如果那个女人从来没有把我们的门弄黑，她就会像一根绳子一样紧紧抓住我。	null
+We were just as happy as the day was long when we set up house together , and in all Liverpool there was no better woman than my Mary .	我们在一起安家立业的日子还算快乐，在利弗浦，没有比我的玛丽更好的女人了。	1
+But when little Mary was there I had never a thought of her , and that I swear as I hope for God 's mercy .	但是当小玛丽在那里的时候，我从来没有想到过她，我发誓，我希望上帝的怜悯。	1
+`` ` It had seemed to me sometimes that she liked to be alone with me , or to coax me out for a walk with her , but I had never thought anything of that .	”“有时我觉得她喜欢和我独处，或者哄我出去和她散步，但我从来没有想到过。	1
+I had come up from the ship and found my wife out , but Sarah at home .	我从船上上来发现了我的妻子，但莎拉在家。	null
+I was impatient and paced up and down the room .	我无礼,在房间里来回走动.	-1
+`` Ca n't you be happy for five minutes without Mary , Jim ? '' says she .	“没有玛丽，你不高兴五分钟吗，吉姆？”她说。	null
+`` It 's a bad compliment to me that you ca n't be contented with my society for so short a time . '' `` That 's all right , my lass , '' said I , putting out my hand towards her in a kindly way , but she had it in both hers in an instant , and they burned as if they were in a fever .	“好吧，我的姑娘，”我说，亲切地向她伸出我的手，但她马上就把那双手插在两个人身上，他们好像发烧了。	1
+There was no need for her to speak , nor for me either .	她没有必要说话，我也没有必要。	1,1
+Then she stood by my side in silence for a bit , and then put up her hand and patted me on the shoulder .	然后她默默地站在我身边，然后举起手拍我的肩膀。	null
+I was a fool to let her go on biding with us -- a besotted fool -- but I never said a word to Mary , for I knew it would grieve her .	我是个傻瓜，让她继续和我们一起骑车——一个受宠若惊的傻瓜——但是我从来没有跟玛丽说过一句话，因为我知道这会让她伤心。	1
+Day by day she grew queerer and more irritable , and we had ceaseless rows about nothing .	她一天一天比一天变得更古怪，更易怒，我们没完没了地争吵着什么也没有。	1
+Sarah avoided me now , but she and Mary were just inseparable .	莎拉现在避开了我，但她和玛丽是不可分割的。	1
+I can see now how she was plotting and scheming and poisoning my wife 's mind against me , but I was such a blind beetle that I could not understand it at the time .	我现在可以看出她是怎样掠夺、策划和毒害我妻子的心的，但我是如此的盲目，我当时无法理解。	1
+Then I broke my blue ribbon and began to drink again , but I think I should not have done it if Mary had been the same as ever .	然后我打破了蓝色的丝带，又开始喝酒了，但我想如果玛丽和以前一样的话，我不应该这样做。	1
+He was good company , I wo n't deny it , and he had wonderful polite ways with him for a sailor man , so that I think there must have been a time when he knew more of the poop than the forecastle .	他是个很好的伙伴，我不否认，他和他有极好的打磨方法，作为一个圣徒，所以我想他肯定有一段时间知道了更多的Pop而不是止赎。	1
+For a month he was in and out of my house , and never once did it cross my mind that harm might come of his soft , tricky ways .	他在我家里里外外住了一个月，我从来没有想到过他那温柔而又古怪的方式会带来伤害。	1
+And then at last something made me suspect , and from that day my peace was gone forever .	后来有什么事使我怀疑，从那天起，我的平静就永远消失了。	null
+I had come into the parlour unexpected , and as I walked in at the door I saw a light of welcome on my wife 's face .	我意外地走进客厅，当我走进房间的时候，我看到了我妻子脸上的欢迎之光。	0
+There was no one but Alec Fairbairn whose step she could have mistaken for mine .	除了AlecFairbairn之外，没有人是她可能误以为是我的。	1
+`` Do n't , Jim , do n't ! '' says she .	”她说。	1,1
+`` Sarah , '' says I as I went in , `` this man Fairbairn is never to darken my door again . ''	“莎拉，”我进去的时候说，“这个人费尔本永远不会再把我的门弄黑了。”	1
+`` Why not ? '' says she .	”她说。	1
+`` Oh ! '' says she , `` if my friends are not good enough for this house , then I am not good enough for it either . ''	“噢！”她说，“如果我的朋友们对这座房子不够好，那么我也不够好。”	1
+She was frightened by my face , I think , for she never answered a word , and the same evening she left my house .	我想，她被我的脸吓了一跳，因为她一句话也没回答。	1
+`` ` Well , I do n't know now whether it was pure devilry on the part of this woman , or whether she thought that she could turn me against my wife by encouraging her to misbehave .	”“好吧，我现在不知道这女人是否纯粹是个魔鬼，她是否认为她可以怂恿我妻子行为不端，使我反对她。	1
+How often she went I do n't know , but I followed her one day , and as I broke in at the door Fairbairn got away over the back garden wall , like the cowardly skunk that he was .	我不知道她多久去一次，但有一天我跟在她后面，当我在门口破门而入时，费尔拜恩从后花园的墙上走了出来，就像他那懦夫一样。	1
+There was no trace of love between us any longer .	我们之间再也没有爱情的痕迹了。	1
+`` ` Well , Sarah found that she could not make a living in Liverpool , so she went back , as I understand , to live with her sister in Croydon , and things jogged on much the same as ever at home .	”“好吧，莎拉发现她不能在利弗浦谋生，所以我知道，她回去和姐姐住在克罗伊敦，家里的事情和以前一样。	1
+The thought was in my head as I turned into my own street , and at that moment a cab passed me , and there she was , sitting by the side of Fairbairn , the two chatting and laughing , with never a thought for me as I stood watching them from the footpath .	当我转身走进自己的街道时，我的脑海里浮现出一种想法。这时，一个咖啡馆从我身边走过。	1
+`` ` I tell you , and I give you my word for it , that from that moment I was not my own master , and it is all like a dim dream when I look back on it .	”“‘我告诉你，我向你保证，从那一刻起，我就不是我自己的主人，当我回头看它的时候，它就像一个深梦。	1
+`` 'Well , I took to my heels , and I ran after the cab . I had a heavy oak stick in my hand , and I tell you I saw red from the first ; but as I ran I got cunning , too , and hung back a little to see them without being seen .	我手里拿着一根沉重的橡树棒，我告诉你，我从第一根就看到了红色；但是当我跑的时候，我也被扣住了扣子，挂了一会儿就看不见了。	1
+There was a good crowd round the booking-office , so I got quite close to them without being seen .	围观办公室的人群很多，所以我很靠近他们，没有人看见。	1
+When we reached it they walked along the Parade , and I was never more than a hundred yards from them .	当我们到达那里时，他们沿着走廊走着，我从他们那儿走了不到一百多年。	1
+There was a bit of a haze , and you could not see more than a few hundred yards .	有一点雾气，你只能看到几百个。	0
+I could see the blur of their craft , but they were going nearly as fast as I , and they must have been a long mile from the shore before I caught them up .	我可以看到他们的船的模糊，但他们的速度几乎和我一样快，在我追上他们之前，他们一定已经离海岸一英里远了。	null
+I cleaned myself up , got back to land , and joined my ship without a soul having a suspicion of what had passed .	我净化了自己，回到陆地上，加入了我的船，没有一个灵魂对过去的一切有怀疑。	1
+You can hang me , or do what you like with me , but you can not punish me as I have been punished already .	你可以把我绞死，或者跟我做你喜欢的事，但你不能惩罚我，因为我已经受到惩罚了。	1
+I can not shut my eyes but I see those two faces staring at me -- staring at me as they stared when my boat broke through the haze .	我不能闭上眼睛，但我看到那两个人朝我看——当我的船破浪时，他们盯着我看。	1
+You wo n't put me alone into a cell , sir ?	你不会把我单独放在牢房里吗，先生？	1
+For pity 's sake do n't , and may you be treated in your day of agony as you treat me now . '	为可怜的缘故，不要这样，愿你在怒不可遏的日子里得到像现在这样的对待。	1
+It must tend to some end , or else our universe is ruled by chance , which is unthinkable .	它必须倾向于某种目的，否则我们的宇宙是由偶然决定的，这是不可能的。	1
+There is the great standing perennial problem to which human reason is as far from an answer as ever . ''	有一个长期存在的重大问题，人类的理性远远没有像以往那样得到答案。	null
+`` Well , Mrs. Warren , I can not see that you have any particular cause for uneasiness , nor do I understand why I , whose time is of some value , should interfere in the matter . I really have other things to engage me . ''	“嗯，沃伦夫人，我看不出你有什么特别的不安的原因，我也不明白我为什么要干涉这件事，因为我的时间是有价值的。	1,1
+She held her ground firmly .	她紧紧抓住地面.	null
+`` Ah , yes -- a simple matter . ''	”“啊，是的，一个简单的问题。	null
+`` But he would never cease talking of it -- your kindness , sir , and the way in which you brought light into the darkness .	”“但是他永远不会停止谈论这件事——您的好意，先生，以及您把光明带入黑暗的方式。	1
+I remembered his words when I was in doubt and darkness myself .	当我感到疑惑和黑暗时,我想起了他的话.	null
+You do n't object to tobacco , I take it ?	你不反对烟草，我接受吗？	1
+You are uneasy , as I understand , because your new lodger remains in his rooms and you can not see him . Why , bless you , Mrs. Warren , if I were your lodger you often would not see me for weeks on end . '' `` No doubt , sir ; but this is different .	据我了解，你很不容易，因为你的新房客还在他的房间里，你看不见他。	1,1
+I ca n't sleep for fright .	我不敢睡觉。	1
+To hear his quick step moving here and moving there from early morning to late at night , and yet never to catch so much as a glimpse of him -- it 's more than I can stand .	听到他的快步在这里移动，从早到晚地在那里移动，但从来没有看到过他的一线希望——这是我无法忍受的。	1
+My husband is as nervous over it as I am , but he is out at his work all day , while I get no rest from it .	我丈夫和我一样紧张，但他整天都在工作，而我却没有休息。	1
+What is he hiding for ?	他在隐瞒什么？	null
+He had an almost hypnotic power of soothing when he wished . The scared look faded from her eyes , and her agitated features smoothed into their usual commonplace .	当他想的时候，他几乎有一种催眠般的抚慰能力，她那恐惧的神情从她的眼睛里消失了，她那激动的表情也融入了他们通常的共同点。	null
+You say that the man came ten days ago and paid you for a fortnight 's board and lodging ? ''	你说那个人十天前就来了,还付给你一张通宵的膳宿费?”	null
+There is a small sitting-room and bedroom , and all complete , at the top of the house . ''	房子的顶部有一个小起居室和卧室，而且都很完整。	null
+I 'm a poor woman , sir , and Mr. Warren earns little , and the money meant much to me .	我是个可怜的女人，先生，华伦先生收入很少，这笔钱对我很重要。	null
+` You can have the same every fortnight for a long time to come if you keep the terms , ' he said .	他说，如果你遵守这些条款，你可以在今后很长一段时间内享受同样的待遇。	null
+` If not , I 'll have no more to do with you . '	如果没有，我就跟你没有关系了。	1,1
+Lodgers often have them .	房客常常有他们。	null
+Also , that he was to be left entirely to himself and never , upon any excuse , to be disturbed . ''	又说，他要完全归自己所有，决不受打扰。	1
+`` Nothing wonderful in that , surely ? ''	“肯定没有什么了不起的吗?”	1
+`` Not in reason , sir .	”“没有道理，先生。	1
+But this is out of all reason .	但这完全没有道理。	null
+He has been there for ten days , and neither Mr. Warren , nor I , nor the girl has once set eyes upon him . We can hear that quick step of his pacing up and down , up and down , night , morning , and noon ; but except on that first night he had never once gone out of the house . ''	他在那儿已经呆了十天，我和瓦伦先生，还有那个姑娘，都没有看他一眼，我们都能听到他在起起落落地踱来踱来踱来踱去，夜里、早晨和中午，除了那天晚上，他从来没有出过屋子。	1,1
+He told me after he had taken the rooms that he would do so and asked me not to bar the door .	他走完房间后告诉我他愿意这样做，并请我不要把门关上。	1
+`` Yes , sir ; prints it in pencil . Just the word , nothing more .	”“是的，先生，把它印在铅笔上。	1
+`` Dear me , Watson , '' said Homes , staring with great curiosity at the slips of foolscap which the landlady had handed to him , `` this is certainly a little unusual .	“亲爱的我，沃森，”豪斯说着，带着极大的好奇，对房东太太递给他的一丁点儿傻话，“这的确有点不寻常。	1
+Seclusion I can understand ; but why print ?	我可以理解隐居，但为什么要打印呢？	null
+Why not write ?	为什么不写信呢？	null
+`` That he desired to conceal his handwriting . ''	“他想用手写文章来表达他的想法。”	null
+What can it matter to him that his landlady should have a word of his writing ?	对于他来说，房东太太应该给他写一个字又有什么关系呢？	null
+`` I can not imagine . ''	我无法想象。	1
+The words are written with a broad-pointed , violet-tinted pencil of a not unusual pattern . You will observe that the paper is torn away at the side here after the printing was done , so that the ` s ' of ` soap ' is partly gone . Suggestive , Watson , is it not ? ''	你会注意到，印刷完成后，纸的侧面被撕掉了，这样‘肥皂’的部分就消失了。有暗示的，沃森，不是吗？	1,-3
+Now .	现在。	null
+Mrs. Warren , you say that the man was of middle size , dark , and bearded .	瓦伦太太，你说那个人中等身材，黑黑的，留着胡子。	null
+`` Youngish , sir -- not over thirty . ''	”“年轻人，先生，不到三十岁。	1
+`` Well , can you give me no further indications ? ''	“那么,你能不能再给我进一步的说明?”	-3
+`` He spoke good English , sir , and yet I thought he was a foreigner by his accent . ''	“先生，他的英语说得很好，但我认为他的口音是外国人。”	null
+Dark clothes -- nothing you would note . ''	黑衣服——你什么也不注意。	1
+`` He gave no name ? ''	”“他没有说出姓名？	1
+`` No , sir . ''	“不，先生。	1
+`` And has had no letters or callers ? ''	”“没有信或电话吗？	1
+`` None . ''	没有。	1
+`` But surely you or the girl enter his room of a morning ? '' `` No , sir ; he looks after himself entirely . ''	”“不，先生，他完全照顾自己。	1
+`` Dear me ! that is certainly remarkable .	“亲爱的我，这确实很了不起。	null
+`` He had one big brown bag with him -- nothing else . ''	“他带着一个棕色的大袋子——别的什么也没有。”	1
+`` Well , we do n't seem to have much material to help us .	”“嗯，我们似乎没有多少物质可以帮助我们。	1
+Do you say nothing has come out of that room -- absolutely nothing ? ''	你说没有什么东西从那个房间出来,绝对没有什么?”	1,1
+`` There is nothing here , '' said he . `` The matches have , of course , been used to light cigarettes . That is obvious from the shortness of the burnt end .	“这里什么也没有，”他说，“当然，火柴是用来点燃香烟的，从烧焦的一端的短处就可以看出这一点。	1
+`` I do n't understand that .	”“我不明白。	1
+I should say that only a clean-shaven man could have smoked this .	我应该说，只有一个刮胡子的人才能抽烟。	null
+`` No , no ; the end is matted .	”“不，不，结束了。	1,1
+I suppose there could not be two people in your rooms , Mrs. Warren ? ''	我想你的房间里不可能有两个人,华伦太太?”	1
+`` No , sir .	”“不，先生。	1
+After all , you have nothing to complain of . You have received your rent , and he is not a troublesome lodger , though he is certainly an unusual one .	毕竟，你没有什么可抱怨的，你已经收了房租，他也不是个麻烦的房客，尽管他确实是个不寻常的房客。	1,1,1
+He pays you well , and if he chooses to lie concealed it is no direct business of yours . We have no excuse for an intrusion upon his privacy until we have some reason to think that there is a guilty reason for it .	他给了你很好的报酬，如果他选择隐瞒这不是你的直接事情，我们没有理由干涉他的隐私，除非我们有理由认为这是有罪的。	1,1
+I 've taken up the matter , and I wo n't lose sight of it .	我已经处理了这件事，我不会忘记的。	1
+`` It may , of course , be trivial -- individual eccentricity ; or it may be very much deeper than appears on the surface . The first thing that strikes one is the obvious possibility that the person now in the rooms may be entirely different from the one who engaged them . ''	“当然，它可能是三角形的——个别的偏心；或者它可能比表面上的要深得多，首先让人吃惊的是，现在在房间里的人显然可能和雇用他们的人完全不同。”	null
+`` Why should you think so ? '' `` Well , apart from this cigarette-end , was it not suggestive that the only time the lodger went out was immediately after his taking the rooms ?	”“嗯，除了这个烟头，难道不是暗示房客出去的唯一时间就是他住进了房间之后？	1
+He came back -- or someone came back -- when all witnesses were out of the way .	他回来了——或者有人回来了——这时所有的证人都挡了路。	null
+We have no proof that the person who came back was the person who went out .	我们没有证据证明回来的人就是出去的人。	1
+I can imagine that the word was taken out of a dictionary , which would give the noun but not the plural .	我可以想象这个词是从字典里取出来的，它只给这个名词，而不是复数。	1
+The laconic style may be to conceal the absence of knowledge of English .	laconic风格可能是对缺乏英语知识的印象。	null
+He took down the great book in which , day by day , he filed the agony columns of the various London journals . `` Dear me ! '' said he , turning over the pages , `` what a chorus of groans , cries , and bleatings !	“亲爱的我！”他翻阅着书页说，“这是多大的歌啊！”	null
+But surely the most valuable hunting-ground that ever was given to a student of the unusual !	但肯定是最有价值的猎场，给了一个不寻常的学生！	1
+This person is alone and can not be approached by letter without a breach of that absolute secrecy which is desired .	这个人是单独的，如果不违反所要求的绝对保密原则，就不能通过信件联系他。	1,1
+There seems no other way , and fortunately we need concern ourselves with the one paper only .	似乎没有其他办法，幸运的是，我们只需要关心一份文件。	1
+` Lady with a black boa at Prince 's Skating Club ' -- that we may pass .	“在王子的溜冰俱乐部里带着黑猪的女士，我们可以通过。	null
+` Surely Jimmy will not break his mother 's heart ' -- that appears to be irrelevant .	”“当然，吉米不会伤透他母亲的心。	1,1
+` If the lady who fainted on Brixton bus ' -- she does not interest me . ` Every day my heart longs -- ' Bleat , Watson -- unmitigated bleat !	“如果那个在布赖克斯顿公共汽车上出彩的女士——她对我不感兴趣，”我的心每天都在渴望——“快快吃，沃森——快点儿吃！”	1,-3
+It sounds plausible , does it not ? The mysterious one could understand English , even if he could not print it .	这听起来很容易，是不是？神秘的人可以理解英语，即使他不能打印出来。	1
+Nothing for a week after that . Then comes something much more definite :	在那之后的一个星期里，什么都没有。	1
+` The path is clearing .	”路正在开。	null
+You will hear soon . That was in yesterday 's paper , and there is nothing in to-day 's .	你很快就会听到，那是在昨天的报纸上，今天什么也没有。	1
+If we wait a little , Watson , I do n't doubt that the affair will grow more intelligible . ''	如果我们稍等片刻，沃森，我毫不怀疑这件事将变得更明白。”	1
+`` I 'll have no more of it !	“我再也受不了啦！	1
+He has to be out of the house before seven . Well , this morning he had not gone ten paces down the road when two men came up behind him , threw a coat over his head , and bundled him into a cab that was beside the curb .	今天早上他还没走十步路，就有两个人走到他身后，把外套扔在他头上，把他塞进路边的一个洞穴里。	1
+He lay in the roadway so shaken in his wits that he never saw what became of the cab . When he picked himself up he found he was on Hampstead Heath ; so he took a bus home , and there he lies now on his sofa , while I came straight round to tell you what had happened . ''	他躺在公路上，神智不清，从来没有看到过洞穴里发生的事，当他爬起来的时候，他发现他是在汉帕斯特希斯，于是他坐了一辆公共汽车回家，躺在那里，这时他躺在沙发上。	1
+`` No ; he is clean dazed .	”“是的。	-3
+`` Well , we 've lived there fifteen years and no such happenings ever came before .	”“嗯，我们在那儿住了十五年，以前从来没有发生过这样的事情。	1
+Money 's not everything . I 'll have him out of my house before the day is done . ''	钱不是万能的，我在一天结束前就把他赶出我的房子。”	1
+Do nothing rash . I begin to think that this affair may be very much more important than appeared at first sight .	别胡闹，我开始觉得这件事可能比一见钟情更重要。	1
+On discovering their mistake they released him .	他们发现他们的错误就释放了他.	null
+What they would have done had it not been a mistake , we can only conjecture . ''	如果不是一个错误，他们会做什么，我们只能猜测。	1
+`` I do n't see how that is to be managed , unless you break in the door .	”“我不知道该怎么处理，除非你把门打开。	1
+Holmes pointed with a chuckle to one of these , a row of residential flats , which projected so that they could not fail to catch the eye .	霍尔墨斯用咯咯的笑声指了指其中的一个，一排住宅用的石板，上面的石板压得他们不得不注意到。	1
+There is the signal station all right .	信号站就在那儿。	null
+We had hardly settled down in it , and Mrs. Warren left us , when a distant tinkle announced that our mysterious neighbour had rung .	我们刚安顿下来，华伦太太就离开了我们，这时远处传来一阵窃窃声，说我们那神秘的邻居已经跑了起来。	null
+Presently the landlady appeared with the tray , laid it down upon a chair beside the closed door , and then , treading heavily , departed .	过了一会儿，女房东带着小车出现了，把它放在紧闭的门旁边的一张椅子上，然后沉重地走了。	null
+Crouching together in the angle of the door , we kept our eyes fixed upon the mirror .	我们蜷缩在门角上,眼睛盯着镜子.	null
+Suddenly , as the landlady 's footsteps died away , there was the creak of a turning key , the handle revolved , and two thin hands darted out and lifted the tray from the chair .	突然，当女房东的脚步声渐渐消逝的时候，有一把转动的钥匙的吱吱声，把手旋转起来，两只瘦弱的手跳了出来，从椅子上举起了托盘。	null
+Then the door crashed to , the key turned once more , and all was silence .	门掉了下来，钥匙又转动了，一切都是寂静。	null
+`` There has been a substitution of lodgers .	”“有一种代替房客的办法。	null
+What I did not foresee is that we should find a woman , and no ordinary woman , Watson . ''	我没有预见到的是，我们应该找到一个女人，而不是一个普通的女人，沃森。”	1,1
+The man , who has some work which he must do , desires to leave the woman in absolute safety while he does it .	男人有一些他必须做的工作，他希望在做这些工作的时候让女人完全安全。	null
+It is not an easy problem , but he solved it in an original fashion , and so effectively that her presence was not even known to the landlady who supplies her with food .	这不是一个容易的问题，但是他以一种原始的方式解决了这个问题，结果她的存在甚至连供应她食物的女房东都不知道。	1,1
+The man can not come near the woman , or he will guide their enemies to her .	男人不能靠近女人，否则他会引导他们的敌人靠近她。	1
+Since he can not communicate with her direct , he has recourse to the agony column of a paper .	由于他不能直接与她沟通，他可以求助于报纸上的愤怒专栏。	1
+This much we can say : that it is no ordinary love escapade .	我们可以这么说：这不是普通的爱情逃避现实。	1
+These alarms , and the desperate need for secrecy , argue that the matter is one of life or death .	这些警报，以及对保密的迫切需求，认为问题是生死。	null
+The attack upon Mr. Warren further shows that the enemy , whoever they are , are themselves not aware of the substitution of the female lodger for the male . It is very curious and complex , Watson . ''	对Warren先生的攻击进一步表明，无论他们是谁，敌人自己都不知道女房客取代男房客，这是非常奇怪和复杂的，Watson。	1
+`` What , indeed ?	”“真的吗？	null
+I suppose when you doctored you found yourself studying cases without thought of a fee ? ''	我想，当你做医生的时候，你发现你自己在学习案例时没有考虑到费用？	1
+`` For my education , Holmes . '' `` Education never ends , Watson . It is a series of lessons with the greatest for the last .	“为了我的教育，霍姆斯。”“教育永远不会结束，沃森。这是一系列最伟大的课程。	1
+There is neither money nor credit in it , and yet one would wish to tidy it up .	它既没有钱也没有信用，但人们还是想把它整理一下。	1
+When we returned to Mrs. Warren 's rooms , the gloom of a London winter evening had thickened into one gray curtain , a dead monotone of colour , broken only by the sharp yellow squares of the windows and the blurred haloes of the gas-lamps .	当我们回到沃伦夫人的房间时，伦敦一个冬天的夜晚的暴风变成了一片灰色的帷幕，一种死色的单簧管，只有玻璃上的黄色方格和油灯上的模糊光环才能打破。	null
+As we peered from the darkened sitting-room of the lodging-house , one more dim light glimmered high up through the obscurity .	当我们从房间里阴暗的起居室里往外看的时候，从黑暗中又透出一道深浅的灯光。	null
+Dead stop . That ca n't be all , Watson ?	别动，那不可能，沃森？	1
+ATTENTA gives no sense . Nor is it any better as three words AT , TEN , TA , unless T. A. are a person 's initials .	除非T.A.是一个人的首字母，否则ATTENTA就没有意义了。	1,1
+Now he is off once more !	现在他又要走了！	null
+No , that seems to be the finish .	不，这似乎是结束。	1
+He has withdrawn from the window .	他已从窗口退出.	null
+My companion gave a sudden chuckle of comprehension . `` And not a very obscure cipher , Watson , '' said he .	我的公司突然发出了一阵理解的笑声。“沃森，不是一个很模糊的密码，”他说。	1
+`` I believe you have hit it . ''	“我相信你打了。”	null
+`` Not a doubt of it .	”“毫无疑问。	1
+Again we saw the dim silhouette of a crouching man and the whisk of the small flame across the window as the signals were renewed .	我们再一次看到一个蜷缩着的男人的半身轮廓和小火焰的尖叫声穿过窗户，信号被重新发出。	null
+They came more rapidly than before -- so rapid that it was hard to follow them .	他们来得比以前快——太快了，很难跟上他们。	null
+The light had suddenly gone out , the glimmering square of window had disappeared , and the third floor formed a dark band round the lofty building , with its tiers of shining casements .	灯光突然熄灭了，那光闪闪的方格窗户不见了，三楼在那幢高楼周围形成了一个黑暗的乐队，里面有许多闪光的箱子。	null
+Why should such a message stop in such a way ? I should put Scotland Yard in touch with this business -- and yet , it is too pressing for us to leave . ''	为什么这样的信息应该这样停止？我应该让苏格兰场与这一业务联系起来——然而，这对我们来说太紧迫了。	null
+There , dimly outlined at the top window , I could see the shadow of a head , a woman 's head , gazing tensely , rigidly , out into the night , waiting with breathless suspense for the renewal of that interrupted message .	在上面的窗口，我隐约地看见一个女人的头的影子，一个女人的头，紧张地、僵硬地凝视着外面的黑夜，带着深不可测的悬念等待着那被打断的信息的更新。	-1
+`` How you got on to it I ca n't imagine . ''	“你怎么做到的,我无法想象.”	1
+But since it is safe in your hands I see no object in continuing this business . ''	但是，既然你手中安全，我看不出有什么理由继续从事这项工作。”	1
+`` I 'll do you this justice , Mr. Holmes , that I was never in a case yet that I did n't feel stronger for having you on my side . There 's only the one exit to these flats , so we have him safe . ''	“霍尔墨斯先生，我对你这样说，我从来没有因为你在我身边而感到坚强过。只有一个出口，所以我们有他的安全。”	1,-3
+We KNOW he is at the bottom of fifty murders , and yet we have nothing positive we can take him on .	我们知道他在50名杀人犯中处于最底层，但我们没有什么积极的东西可以对付他。	1
+Mr. Gregson and I ran him to ground in that big tenement house , and there 's only one door , so he ca n't slip us .	格雷格森先生和我跑到那栋大公寓的房子里，那儿只有一扇门，所以他不会滑倒我们。	1
+There 's three folk come out since he went in , but I 'll swear he was n't one of them . ''	自从他进来后，有三个人出来了，但我发誓他不是他们中的一个。”	1
+`` I expect , as usual , he knows a good deal that we do n't . ''	“我想,和往常一样,他知道很多我们不知道的事情.”	1
+`` But we have no warrant for his arrest . '' `` He is in unoccupied premises under suspicious circumstances , '' said Gregson .	“但我们没有逮捕他的逮捕证，”格雷格森说，“他在可疑的情况下呆在空置的房子里。”	1,0
+When we have him by the heels we can see if New York ca n't help us to keep him .	当我们抓住他的时候，我们可以看到纽约是否没有帮助我们留住他。	-1
+Our official detectives may blunder in the matter of intelligence , but never in that of courage . Gregson climbed the stair to arrest this desperate murderer with the same absolutely quiet and businesslike bearing with which he would have ascended the official staircase of Scotland Yard .	我们的官方侦探可能在情报问题上犯了错，但决不是在勇气问题上犯了错。葛雷森爬上楼梯逮捕了这个绝望的杀人犯，他的举止绝对安静，很有商业意味，他一定会对苏格兰场的官方楼梯嗤之以鼻。	1
+The Pinkerton man had tried to push past him , but Gregson had firmly elbowed him back .	平克顿人曾试图把他推开，但格雷格森已坚定地把他推开。	null
+On the deal boards of the carpetless floor there was outlined a fresh track of blood .	在没有地毯的地板上，有一条新的血迹。	1
+That should be enough for you . '' `` Not much , Mr. Holmes , among the millions of London . ''	这对你来说就足够了。	1
+`` Perhaps not .	”“也许不是。	1
+Round and round the room she danced , her hands clapping , her dark eyes gleaming with delighted wonder , and a thousand pretty Italian exclamations pouring from her lips .	她在房间里踱来踱去，双手拍打，她那黑黑的眼睛闪烁着喜悦的惊奇，从她的嘴唇上发出了一千种美丽的义大利的喊声。	null
+How could you call ? '' `` Your cipher was not difficult , madam . Your presence here was desirable .	”“你的密码并不难，夫人，你在这里是值得的。	1
+`` I do not understand how you know these things , '' she said . `` Giuseppe Gorgiano -- how did he -- ''	“我不明白你是怎么知道这些事情的，”她说，“古塞佩·戈尔吉奥诺——他怎么样了？”	1
+`` Well , Mrs. Lucca , '' said the prosaic Gregson , laying his hand upon the lady 's sleeve with as little sentiment as if she were a Notting Hill hooligan , `` I am not very clear yet who you are or what you are ; but you 've said enough to make it very clear that we shall want you at the Yard . ''	”“好吧，卢卡太太，”牧师葛雷森说，把手放在那位小姐的雪橇上，几乎没有感情，仿佛她是诺丁山的霍利根，“我还不太清楚你是谁，你是什么人，但你说得足够清楚了，我们要你到院子里去。	1
+But if you think that he has acted from motives which are not criminal , and which he would wish to have known , then you can not serve him better than by telling us the whole story . ''	但是，如果你认为他的行为动机不是犯罪的，而且他希望知道这些动机，那么你就不能比告诉我们整个情况更好地为他服务。”	1,-2
+`` Now that Gorgiano is dead we fear nothing , '' said the lady .	“既然戈尔吉亚诺死了，我们什么也不怕，”这位女士说。	1
+`` He was a devil and a monster , and there can be no judge in the world who would punish my husband for having killed him . ''	“他是个魔鬼和怪物，世界上没有法官惩罚我丈夫杀死他。”	1
+She spoke in rapid and fluent but very unconventional English , which , for the sake of clearness , I will make grammatical .	她的英语说得又快又流利，但很不传统，为了清晰起见，我将把它写成语法。	1
+He had neither money nor position -- nothing but his beauty and strength and energy -- so my father forbade the match .	他既没有钱也没有地位--除了他的美貌、力量和精力--所以我父亲禁止比赛。	1
+`` Fortune was very good to us at first .	”“一开始运气对我们很好。	null
+Signor Castalotte was a bachelor , and I believe that he felt as if Gennaro was his son , and both my husband and I loved him as if he were our father .	西诺·卡斯特洛特是个学士，我相信他觉得Gennaro是他的儿子，我和丈夫都爱他，就好像他是我们的父亲一样。	null
+We had taken and furnished a little house in Brooklyn , and our whole future seemed assured when that black cloud appeared which was soon to overspread our sky . `` One night , when Gennaro returned from his work , he brought a fellow-countryman back with him .	我们在布罗克林租了一间小房子，在不久就要把我们的天空铺满的乌云出现的时候，我们的整个未来似乎是有保障的。	null
+There was scarce room for the whirl of his great arms as he talked .	在他说话的时候,他那巨大的手臂发出呜咽声的地方很少.	null
+He talked , or rather roared , with such energy that others could but sit and listen , cowed with the mighty stream of words .	他滔滔不绝地谈论着，甚至咆哮着，他的精力使别人只能坐着听着，被滔滔不绝的话语吓住了。	null
+Yet I was aware that Gennaro was no more happy than I was in his presence . My poor husband would sit pale and listless , listening to the endless raving upon politics and upon social questions which made up our visitor 's conversation .	然而，我意识到，Gennaro并不比我在他面前高兴，我可怜的丈夫面色苍白，无精打采地坐着，听着构成我们客人谈话的无休止的政治和社会问题。	-2 Gennaro said nothing , but I , who knew him so well , could read in his face some emotion which I had never seen there before .	Gennaro什么也没说，但是我跟他很熟，能从他脸上看出我以前从未见过的那种情绪。	1,1
+At first I thought that it was dislike .	起初我以为那是不一样的。	1
+And then , gradually , I understood that it was more than dislike .	然后，渐渐地，我明白这不仅仅是不一样。	1
+That night -- the night that I read his terror -- I put my arms round him and I implored him by his love for me and by all that he held dear to hold nothing from me , and to tell me why this huge man overshadowed him so .	那天晚上----我看到他恐怖的那天晚上----我抱着他，用他对我的爱和他所珍视的一切来恳求他，并告诉我，为什么这个巨人这样遮蔽了他。	-3
+My poor Gennaro , in his wild and fiery days , when all the world seemed against him and his mind was driven half mad by the injustices of life , had joined a Neapolitan society , the Red Circle , which was allied to the old Carbonari .	我可怜的Gennaro，在他狂野和狂怒的日子里，当全世界都在反对他，他的思想被生活中的法官们半生了疯的时候，他加入了一个Neapolitan社会，红圈，它与古老的Carbonari结盟。	null
+The oaths and secrets of this brotherhood were frightful , but once within its rule no escape was possible .	这个兄弟的誓言和秘密是可怕的，但是一旦在它的统治下，就不可能逃脱。	1
+When we had fled to America Gennaro thought that he had cast it all off forever .	当我们逃到美国时，Gennaro认为他已经永远抛弃了这一切。	null
+What was his horror one evening to meet in the streets the very man who had initiated him in Naples , the giant Gorgiano , a man who had earned the name of ` Death ' in the south of Italy , for he was red to the elbow in murder !	有一天晚上，他在街上遇到一个人，那个人就是在纳普勒斯发动他的那个人，他是巨人戈尔吉亚诺，一个在意大利南部赢得了“死亡”的名字的人，因为他在谋杀中被当场红了！	null
+Gennaro had not yet returned when he came .	Gennaro来的时候还没有回来。	1
+He struck Gennaro senseless and fled from the house which he was never more to enter .	他打击了Gennaro的感情，逃离了他再也无法进入的房子。	-1,1
+Gennaro returned from it with a face which told me that something dreadful had occurred .	Gennaro从那里回来，脸上的表情告诉我，发生了一件可怕的事。	null
+Gennaro saw our enemy 's cruel face smiling at him as he dipped his hand in the bag . No doubt it had been prearranged in some fashion , for it was the fatal disc with the Red Circle upon it , the mandate for murder , which lay upon his palm .	Gennaro看到敌人的残酷的脸在他把手伸进袋子里朝他微笑，这无疑是以某种方式事先安排的，因为那是红色圆环上的致命的圆盘，谋杀的任务就在他的手掌上。	null
+By midday my husband and I were on our way to London , but not before he had given our benefactor full warning of this danger , and had also left such information for the police as would safeguard his life for the future .	到了中午，我和丈夫正在去伦敦的路上，但在他向我们的恩人发出关于这种危险的充分警告之前，他还把这些信息留给了警方，以便为他的未来保护他的生命。	-1
+If ever they were exerted it would be now . My darling made use of the few clear days which our start had given us in arranging for a refuge for me in such a fashion that no possible danger could reach me . For his own part , he wished to be free that he might communicate both with the American and with the Italian police .	我亲爱的利用了我们开始给我们的几天时间，为我安排了一个避难所，这样我就不会有任何危险了。	1
+I do not myself know where he lived , or how .	我自己也不知道他住在哪里，怎么住。	1
+It is very clear to me now that he knew Gorgiano to be close upon him , and that , thank God ! he was ready for him when he came .	现在我很清楚，他知道戈尔吉亚诺要接近他，感谢上帝！他来的时候已经准备好了。	null
+And now , gentleman , I would ask you whether we have anything to fear from the law , or whether any judge upon earth would condemn my Gennaro for what he has done ? '' `` Well , Mr. Gregson , '' said the American , looking across at the official , `` I do n't know what your British point of view may be , but I guess that in New York this lady 's husband will receive a pretty general vote of thanks . ''	现在，先生，我想问你，我们是否有法律上的任何恐惧，或者世界上是否有任何法官会因为我的Gennaro所做的事而谴责他？”“好吧，格雷森先生，”美国人看着这位官员说，“我不知道你的英国观点是什么，但我想，这位女士的丈夫在纽约会得到一个相当普遍的感谢。”	1
+`` If what she says is corroborated , I do not think she or her husband has much to fear .	”“如果她的话得到证实，我认为她或她丈夫没有什么可怕的。	1
+But what I ca n't make head or tail of , Mr. Holmes , is how on earth YOU got yourself mixed up in the matter . ''	但是，霍尔墨斯先生，我不能理解的是，究竟是什么让你自己卷入了这件事。”	1
+By the way , it is not eight o'clock , and a Wagner night at Covent Garden !	顺便说一下，现在还不到八点钟，还有一个瓦格纳之夜在科芬特加登！	1
