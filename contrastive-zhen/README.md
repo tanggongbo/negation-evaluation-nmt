@@ -1,4 +1,8 @@
-For each contrastive translation pairs, the first target sentence is the reference, and the remaining target sentences are contrastive translations. 
+we create a contrastive evaluation set for negation on EN->ZH, using the development and test sets from the WMT shared translation task 2017--2020. The contrastive evaluation set also has two sub-categories: negation deletion and negation insertion. 
+
+We first select the five most popular Chinese negation cues -- "bu", "mei", "wu", "fei", and "bie" (不,没,无,非,别). Then, we manually delete the negation cue from the reference or insert a negation cue into the reference, without affecting the grammaticality. The negation deletion and negation insertion categories have 2,005 and 3,062 sets with contrastive translations, respectively. 
+
+For each contrastive translation pair, the first target sentence is the reference, and the remaining target sentences are contrastive translations. 
 
 run the following commands for evaluation: 
 
